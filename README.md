@@ -12,3 +12,4 @@ How to run:
   then click enter twice answer will be printed to console
   4. Problem 6: first input string1 then enter, input string2 then enter, answer will directly printed to the console
   5. Problem 7: not done yet (needs more time), but use Trie data structure and to find number of name with prefix "x", recursively getChild
+  6. Problem 1: first line is how many k checkings to do, second how many x lines to compare, 1+x the lines
